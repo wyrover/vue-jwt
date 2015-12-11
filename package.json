@@ -1,0 +1,38 @@
+{
+  "name": "vue-jwt",
+  "version": "0.0.8",
+  "description": "Jwt auth for vuejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodzzlessa24/vue-jwt.git"
+  },
+  "keywords": [
+    "vue",
+    "jwt",
+    "vuejs",
+    "auth"
+  ],
+  "author": "Rodrigo Lessa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodzzlessa24/vue-jwt/issues"
+  },
+  "homepage": "https://github.com/rodzzlessa24/vue-jwt#readme",
+  "dependencies": {
+    "@fdaciuk/ajax": "0.0.12",
+    "jwt-decode": "^1.4.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-loader": "^6.1.0",
+    "babel-plugin-transform-runtime": "^6.1.18",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-runtime": "^6.3.13",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.12.0",
+    "webpack-stream": "^2.3.0"
+  }
+}
